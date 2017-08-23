@@ -1,4 +1,4 @@
-# Atividades-TecWeb
+# Atividades-DevOps
 # Nome: Raphael Karpischek Martinez
 # R.A: 1700480 / Faculdade Impacta Tecnologia
 # Professor: Vanderson
